@@ -6,7 +6,6 @@ SET QUOTED_IDENTIFIER ON
 GO
 -- =============================================
 -- Author:		Karla Lopez
--- Create date: April 5, 2018
 -- Description:	Timeline Feed Display
 -- =============================================
 ALTER PROCEDURE [dbo].[Timelines_TimelineFeedUserJoin_SelectByUserBaseId]
